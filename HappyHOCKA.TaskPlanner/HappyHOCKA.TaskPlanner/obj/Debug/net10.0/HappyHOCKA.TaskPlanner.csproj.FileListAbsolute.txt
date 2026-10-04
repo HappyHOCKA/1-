@@ -1,0 +1,16 @@
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\bin\Debug\net10.0\HappyHOCKA.TaskPlanner.exe
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\bin\Debug\net10.0\HappyHOCKA.TaskPlanner.deps.json
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\bin\Debug\net10.0\HappyHOCKA.TaskPlanner.runtimeconfig.json
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\bin\Debug\net10.0\HappyHOCKA.TaskPlanner.dll
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\bin\Debug\net10.0\HappyHOCKA.TaskPlanner.pdb
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\obj\Debug\net10.0\HappyHOCKA.TaskPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\obj\Debug\net10.0\HappyHOCKA.TaskPlanner.AssemblyInfoInputs.cache
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\obj\Debug\net10.0\HappyHOCKA.TaskPlanner.AssemblyInfo.cs
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\obj\Debug\net10.0\HappyHOCKA.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\obj\Debug\net10.0\HappyHOCKA.TaskPlanner.sourcelink.json
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\obj\Debug\net10.0\HappyHOCKA.TaskPlanner.dll
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\obj\Debug\net10.0\refint\HappyHOCKA.TaskPlanner.dll
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\obj\Debug\net10.0\HappyHOCKA.TaskPlanner.pdb
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\obj\Debug\net10.0\HappyHOCKA.TaskPlanner.genruntimeconfig.cache
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\obj\Debug\net10.0\ref\HappyHOCKA.TaskPlanner.dll
+C:\Навчання\3 курс 1 семестр\.NET\1 лаба\HappyHOCKA.TaskPlanner\HappyHOCKA.TaskPlanner\obj\Debug\net10.0\HappyHOC.C842E090.Up2Date
